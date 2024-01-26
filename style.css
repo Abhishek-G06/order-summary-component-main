@@ -97,11 +97,6 @@ h1 {
     font-weight: 700;
 }
 
-.plans p {
-    display: block;
-    justify-content: flex-start;
-}
-
 .text,
 .price {
     display: inline-block;
