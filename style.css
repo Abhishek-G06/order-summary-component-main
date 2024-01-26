@@ -109,7 +109,11 @@ h1 {
 }
 
 .changePlan a{
+    color: var(--Bright-blue);
     font-weight: 700;
+}
+
+.changePlan a:hover {
     text-decoration: none;
 }
 
